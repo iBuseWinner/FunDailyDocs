@@ -8,3 +8,8 @@
 * [Команды на сервере](osnova/komandy-na-servere/README.md)
   * [Использование цветов](osnova/komandy-na-servere/ispolzovanie-cvetov.md)
   * [Регионы на выживаниях](osnova/komandy-na-servere/regiony-na-vyzhivaniyakh.md)
+
+## Колбаса 1.17.1 <a href="newkolbasa" id="newkolbasa"></a>
+
+* [Обновления](newkolbasa/obnovleniya.md)
+* [Особенности](newkolbasa/osobennosti.md)
