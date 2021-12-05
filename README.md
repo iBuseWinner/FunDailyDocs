@@ -1,9 +1,10 @@
 # Что это такое?
 
-С помощью меню слева выбери, что конкретно тебе нужно найти. Если ты не смог найти ответ на свой вопрос, то ты всегда можешь задать свой вопрос у нас в Дискорде или групппе ВК.
+Офециальная страничка корпорации GremlinFixCorp.
 
 #### Ссылочки:
 
-Discord: [https://discord.gg/BUWCmSFERQ](https://discord.gg/BUWCmSFERQ)
+История нашей корпарации: [https://youtu.be/rkbfUhIj4iI](https://youtu.be/rkbfUhIj4iI)
 
-ВК: [https://vk.com/fundaily](https://vk.com/fundaily)
+БОЛЕЕ 200 ЧАСОВ НА ФОРУМАХ
+100+ закрытых реквестов
