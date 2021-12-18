@@ -46,6 +46,9 @@
 * Шейдеры
 * Моды на плащи/крылья/другие украшения у персонажа
 * ItemPhysics
+* Just Enough Items
+* Not Enough Items
+* Too Many Items
 * Список может пополняться...
 
 
